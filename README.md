@@ -28,4 +28,6 @@ LICENSE: [MIT](./licence.md)
 ---
 
 ##### Открыть сайт 
-[![image_86300116003714522505](https://user-images.githubusercontent.com/109112733/183312330-3feac1a3-8920-4d72-94fd-41a4234be13d.gif)]((shimlykhdiana.github.io/task-5.11/))
+[![image_86300116003714522505](https://user-images.githubusercontent.com/109112733/183312330-3feac1a3-8920-4d72-94fd-41a4234be13d.gif)](https://shimlykhdiana.github.io/task-5.11/)
+
+
